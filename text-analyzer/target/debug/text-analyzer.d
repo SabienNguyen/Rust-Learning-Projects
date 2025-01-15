@@ -1,0 +1,1 @@
+C:\Users\sabie\OneDrive\Documents\Code\Rust\Rust-Learning-Projects\text-analyzer\target\debug\text-analyzer.exe: C:\Users\sabie\OneDrive\Documents\Code\Rust\Rust-Learning-Projects\text-analyzer\src\main.rs
