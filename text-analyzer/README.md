@@ -1,0 +1,1 @@
+This program takes a text file and finds line count, word count, and unique word frequency. 
