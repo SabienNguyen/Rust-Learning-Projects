@@ -1,0 +1,9 @@
+C:\Users\Sabien\Code\Rust\Rust-Learning-Projects\weather-scraper\target\debug\deps\libstring_cache-c1fa63457bbff229.rmeta: C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\lib.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\atom.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\dynamic_set.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\static_sets.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\trivial_impls.rs
+
+C:\Users\Sabien\Code\Rust\Rust-Learning-Projects\weather-scraper\target\debug\deps\string_cache-c1fa63457bbff229.d: C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\lib.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\atom.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\dynamic_set.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\static_sets.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\trivial_impls.rs
+
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\lib.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\atom.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\dynamic_set.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\static_sets.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\string_cache-0.8.7\src\trivial_impls.rs:

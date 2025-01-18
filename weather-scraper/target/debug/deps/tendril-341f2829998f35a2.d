@@ -1,0 +1,11 @@
+C:\Users\Sabien\Code\Rust\Rust-Learning-Projects\weather-scraper\target\debug\deps\libtendril-341f2829998f35a2.rmeta: C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\lib.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\fmt.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\stream.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\buf32.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\tendril.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\utf8_decode.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\util.rs
+
+C:\Users\Sabien\Code\Rust\Rust-Learning-Projects\weather-scraper\target\debug\deps\tendril-341f2829998f35a2.d: C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\lib.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\fmt.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\stream.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\buf32.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\tendril.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\utf8_decode.rs C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\util.rs
+
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\lib.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\fmt.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\stream.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\buf32.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\tendril.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\utf8_decode.rs:
+C:\Users\Sabien\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tendril-0.4.3\src\util.rs:
